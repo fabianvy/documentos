@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="this-is-not-a-slideshow.fabian2.svg"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg2"
+   height="1062.9921"
+   width="1062.9921">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994951"
+     inkscape:cx="625.33167"
+     inkscape:cy="464.72066"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="cm"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       id="grid3763"
+       type="xygrid"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5633">
+      <stop
+         id="stop5635"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       tgtlength_rdm="0.3;1"
+       tgtlength="100"
+       tgtscale="10"
+       tgt_places_rdmness="1;1"
+       nbtangents="5"
+       tremble_frequency="1"
+       tremble_size="5;1"
+       parallel_offset="5;1"
+       ends_tolerance="0.1;1"
+       strokeoverlap_rdm="0.3;1"
+       strokeoverlap="0.3"
+       strokelength_rdm="0.3;1"
+       strokelength="100"
+       nbiter_approxstrokes="5"
+       is_visible="true"
+       id="path-effect3765"
+       effect="sketch" />
+    <inkscape:path-effect
+       bendpath4="m 167.14286,514.73163 0,367.83084"
+       bendpath3="m 167.14286,882.56247 157.07266,0"
+       bendpath2="m 324.21552,514.73163 0,367.83084"
+       bendpath1="m 167.14286,514.73163 157.07266,0"
+       xx="true"
+       yy="true"
+       is_visible="true"
+       id="path-effect3767"
+       effect="envelope" />
+    <inkscape:path-effect
+       phi="5"
+       teeth="10"
+       is_visible="true"
+       id="path-effect3769"
+       effect="gears" />
+    <inkscape:path-effect
+       crossing_points_vector=""
+       switcher_size="15"
+       add_other_stroke_width="true"
+       add_stroke_width="true"
+       prop_to_stroke_width="true"
+       interruption_width="3"
+       is_visible="true"
+       id="path-effect3771"
+       effect="knot" />
+    <inkscape:path-effect
+       nr_y="5"
+       nr_x="5"
+       is_visible="true"
+       id="path-effect3773"
+       effect="construct_grid" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3775"
+       effect="spiro" />
+    <inkscape:path-effect
+       maxComplexity="1000"
+       drawall="true"
+       nbgenerations="1"
+       similar_only="false"
+       generator="m 167.14286,882.56247 52.35755,0 m 52.35756,0 52.35755,0"
+       ref_path="m 167.14286,698.64705 157.07266,0"
+       is_visible="true"
+       id="path-effect3777"
+       effect="vonkoch" />
+    <inkscape:path-effect
+       vertical="false"
+       scale_y_rel="false"
+       prop_scale="1"
+       bendpath="m 167.14286,698.64705 157.07266,0"
+       is_visible="true"
+       id="path-effect3779"
+       effect="bend_path" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1"
+     transform="translate(0,10.631225)"
+     style="display:inline">
+    <g
+       inkscape:transform-center-y="-29.580984"
+       inkscape:transform-center-x="-38.460247"
+       transform="matrix(2.3185398,0,0,2.3185398,-690.3024,-1055.7275)"
+       id="layer1-8"
+       inkscape:label="Calque 1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3007"
+         d="m 664.99729,654.7941 c -0.97165,-3.16732 -3.59682,-16.13813 -5.08854,-25.14219 -2.99137,-18.05589 -4.38349,-32.97732 -5.10094,-54.67451 -0.28238,-8.53959 -1.21612,-10.81519 -0.53588,-10.81519 2.82778,0 17.85982,7.47979 24.00519,11.56108 12.37658,8.21958 18.92606,18.74124 19.57856,31.45273 0.2441,4.75551 0.13785,5.72066 -1.02871,9.34391 -2.68567,8.34152 -7.54548,18.74304 -17.97061,29.1591 -3.61501,3.61186 -9.34922,9.59398 -10.78264,10.78265 -2.2368,1.85487 -2.83986,-0.89642 -3.07643,-1.66758 z"
+         style="fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="csssssssscc" />
+      <path
+         sodipodi:nodetypes="ssssssss"
+         inkscape:connector-curvature="0"
+         id="path3792"
+         d="m 392.34969,654.33945 c -21.01871,-49.20118 -27.20832,-97.82124 -15.39989,-120.96768 6.89705,-13.51934 20.88367,-19.67638 38.80994,-17.08451 8.17657,1.18221 23.92626,4.34053 25.37483,5.7121 0.38519,0.36471 -3.38434,3.52038 -5.32117,6.57609 -4.77582,7.53471 -13.59934,25.79204 -17.81905,36.87057 -11.0807,29.09149 -18.25056,66.19899 -20.59074,101.76543 -0.20638,3.13669 -0.45967,-2.11765 -5.05392,-12.872 z"
+         style="fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3800"
+         d="m 659.6783,501.37697 c -2.32457,0.18254 -4.63554,0.7783 -6.73004,1.81127 -1.19619,0.62935 -2.55003,1.56007 -2.64453,3.03612 -0.0533,2.06356 1.38811,3.95547 3.28485,4.67629 2.24586,0.88314 4.80077,0.66421 7.04242,-0.11235 3.30401,-1.2278 5.79168,-4.03779 7.27879,-7.16473 0.17924,-0.50913 0.93604,-1.39354 -0.0862,-1.2817 -2.66099,-0.42607 -5.33029,-0.91746 -8.03145,-0.96818 l -0.11381,0.003 z"
+         style="fill:#ddafe9;fill-opacity:1;stroke:#ddafe9;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csssssccc"
+         inkscape:connector-curvature="0"
+         id="path3794"
+         d="m 578.80989,789.72063 c -23.32273,-8.15737 -33.49713,-20.50991 -31.22416,-32.62588 1.49377,-7.96247 12.51465,-20.8437 29.78472,-34.67555 9.8613,-7.89806 35.84172,-26.23573 40.58446,-29.12029 1.14694,-0.69758 0.1926,2.99527 -0.37919,10.86886 -2.19579,30.23646 -6.65443,51.981 -15.23634,71.45272 -3.72069,8.44198 -8.50455,18.89224 -9.62408,18.76319 -0.35877,-0.0413 -6.18317,-1.67097 -9.88755,-2.96662 z"
+         style="fill:#00ccff;fill-opacity:1;stroke:#00ccff;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="zcsscsz"
+         inkscape:connector-curvature="0"
+         id="path2985"
+         d="m 411.31698,699.86309 c -49.8102,-78.02369 -78.30419,-243.65316 58.48655,-165.26508 1.43718,0.61504 -2.0856,0.67762 -2.72898,0.30382 -135.87891,-78.94554 -100.53198,90.20404 -56.68196,158.17157 28.57143,44.28572 168.57142,262.85714 -94.28572,162.85714 -1.50165,-0.5424 -0.69994,-8.16718 0.90478,-7.547 239.71544,92.64396 144.11553,-70.49676 94.30533,-148.52045 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="scssscsss"
+         inkscape:connector-curvature="0"
+         id="path2989"
+         d="m 699.18299,605.89916 c -3.85252,-54.40181 -114.73182,-53.82168 -156.29061,-54.25384 -1.32856,-0.022 -0.36044,1.50984 0.18681,1.50222 48.39981,-0.67368 152.45649,0.0865 156.59911,52.55961 4.28572,54.28589 -160.71429,118.79483 -152.14286,157.36626 8.57143,38.57142 111.42857,42.85714 151.42857,42.85714 3.57143,0.35714 4.41833,-4.40812 -0.55003,-4.74693 -58.31047,-3.97642 -206.02141,-8.74237 -128.51312,-71.45528 44.36713,-35.89799 132.98622,-71.52329 129.28213,-123.82918 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path2991"
+         d="m 733.91622,734.95854 c -73.61365,8.33242 -88.58771,-155.09604 -76.90831,-207.20046 -19.51736,87.16418 20.40332,220.49231 77.34839,211.95055 4.16688,-0.75761 3.09545,-5.5077 -0.44008,-4.75009 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="zsccscsz"
+         inkscape:connector-curvature="0"
+         id="path3763"
+         d="m 665.67537,508.00792 c 4.13445,-4.23376 5.65909,-16.14927 5.62971,-15.91986 -0.68185,5.32365 -2.02371,10.79795 -5.42022,15.06936 -2.26421,2.88157 -5.8962,3.59134 -7.48624,3.23957 -4.66074,-0.50154 -4.91608,-4.18437 -5.65193,-8.23608 -0.10462,-0.57606 -0.55251,-2.23088 -2.40042,-0.71228 -2.28916,2.55542 -2.32441,6.5932 -0.85636,8.03346 5.2342,5.13508 12.05102,2.75959 16.18546,-1.47417 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 493.65967,486.07849 c 117.77719,-29.78972 182.70067,302.04509 48.13304,341.8111 -193.81862,57.27524 -172.17339,-310.43722 -48.13304,-341.8111 z m 13.68655,-7.29079 c -115.06127,1.20709 -170.54197,344.38926 -2.66791,357.14286 182.47821,13.8631 117.72918,-358.34995 2.66791,-357.14286 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3846"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:none;stroke:none"
+       d="m 260,532.99207 c 100,170 100,170 170,440"
+       id="path3153"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-10.631225)"
+       sodipodi:nodetypes="cc" />
+    <text
+       inkscape:transform-center-y="3.7685541"
+       inkscape:transform-center-x="192.06777"
+       sodipodi:linespacing="125%"
+       id="text3038"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:125%;font-family:'PaperCuts 2.0';-inkscape-font-specification:'PaperCuts 2.0 Bold Oblique';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><textPath
+         style="font-size:26px"
+         id="textPath3080"
+         xlink:href="#path3068">Ésto n<tspan
+   style="fill:#ff6600"
+   id="tspan3893">o</tspan> es una presentaci<tspan
+   style="fill:#ff6600"
+   id="tspan3895">ó</tspan>n de diapositivas</textPath></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3068"
+       d="m 244,494.36085 c 16.3311,20.77275 21.89584,48.13196 40.02208,67.70722 21.12008,32.91742 34.70551,70.05371 56.75585,102.44728 18.39476,28.62552 30.50025,60.5458 43.34363,91.8794 9.27744,25.32424 18.13469,50.81456 26.77379,76.35302 2.87365,10.23507 4.512,20.99811 3.10465,31.61308"
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3872"
+       d="m 608,638.36085 c 31.31959,-24.26672 65.78833,-44.45799 95.07762,-71.31922 7.89028,-3.94536 16.29599,-6.84527 24.92238,-8.68078"
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3892"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'PaperCuts 2.0';-inkscape-font-specification:'PaperCuts 2.0';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><textPath
+         id="textPath3899"
+         startOffset="50%"
+         xlink:href="#path3872"><tspan
+   id="tspan3894">Ésto</tspan></textPath></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3902"
+       d="m 846,468.36085 c -16.58348,-14.78232 -22.2906,-38.55292 -19.99997,-60"
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="translate(4,0)"
+       sodipodi:linespacing="125%"
+       id="text3920"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'PaperCuts 2.0';-inkscape-font-specification:'PaperCuts 2.0';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><textPath
+         id="textPath3924"
+         startOffset="50%"
+         xlink:href="#path3902"><tspan
+   id="tspan3922">es</tspan></textPath></text>
+    <rect
+       y="482.36084"
+       x="230"
+       height="50"
+       width="60"
+       id="rect3929"
+       style="fill:none;stroke:none" />
+    <rect
+       transform="matrix(0.01437004,0.99989675,-0.99972058,0.02363796,0,0)"
+       y="-283.88995"
+       x="489.06094"
+       height="61.168594"
+       width="68.886269"
+       id="rect4007"
+       style="fill:none;stroke:#000000;stroke-width:1.16119623;stroke-miterlimit:4;stroke-dasharray:3.48358823, 1.16119608;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.26793098;stroke-miterlimit:4;stroke-dasharray:3.80379254, 1.26793084;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5721"
+       width="57.168152"
+       height="52.727631"
+       x="686.54205"
+       y="223.02081"
+       transform="matrix(0.73570431,0.67730286,-0.93767227,0.34752082,0,0)" />
+    <rect
+       transform="matrix(0.57719667,0.81660517,-0.98311641,0.18298121,0,0)"
+       y="83.642326"
+       x="700.70221"
+       height="49.590832"
+       width="42.103542"
+       id="rect5891"
+       style="fill:none;stroke:#000000;stroke-width:1.0552597;stroke-miterlimit:4;stroke-dasharray:3.16577931, 1.05525964;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.50928688;stroke-miterlimit:4;stroke-dasharray:1.52786069, 0.5092869;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5979"
+       width="55.930489"
+       height="65.21048"
+       x="646.8172"
+       y="-385.73547"
+       transform="matrix(-0.01929262,0.99981388,-0.99822672,0.05952659,0,0)" />
+    <rect
+       transform="matrix(-0.00139239,0.99999903,-0.97758634,0.2105349,0,0)"
+       y="-458.6102"
+       x="756.599"
+       height="102.97176"
+       width="217.00723"
+       id="rect6161"
+       style="fill:none;stroke:#000000;stroke-width:1.2605952;stroke-miterlimit:4;stroke-dasharray:3.781786, 1.26059524;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.36643505;stroke-miterlimit:4;stroke-dasharray:4.09930492, 1.36643497;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6255"
+       width="555.03589"
+       height="359.62112"
+       x="483.5372"
+       y="-296.21518"
+       transform="matrix(0.30466428,0.9524598,-0.91667449,0.39963468,0,0)" />
+    <rect
+       transform="matrix(0.76597867,-0.64286599,0.63484736,0.77263758,0,0)"
+       y="831.63361"
+       x="93.39975"
+       height="92.013741"
+       width="90.032394"
+       id="rect6445"
+       style="fill:none;stroke:#000000;stroke-width:2.10196304;stroke-miterlimit:4;stroke-dasharray:6.30589218, 2.10196312;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.10568357;stroke-miterlimit:4;stroke-dasharray:6.31705278, 2.10568377;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6543"
+       width="106.76498"
+       height="77.867958"
+       x="-963.98773"
+       y="607.44586"
+       transform="matrix(-0.35192796,-0.93602709,0.78229493,-0.62290821,0,0)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:4.50000001, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6643"
+       width="1040"
+       height="1000"
+       x="10"
+       y="12.36084" />
+  </g>
+  <ns1:frame
+     ns1:refid="rect6255"
+     ns1:sequence="6"
+     id="frame7"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:title="completo"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="1000.0"
+     ns1:timeout-enable="true"
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:show-in-frame-list="true"
+     ns1:transition-path-hide="true" />
+  <ns1:frame
+     ns1:refid="rect6445"
+     ns1:sequence="7"
+     id="frame8"
+     ns1:transition-duration-ms="999"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:title="Esto"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:show-in-frame-list="true"
+     ns1:transition-path-hide="true" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:timeout-enable="true"
+     ns1:timeout-ms="1500.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="es"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:transition-duration-ms="999"
+     id="frame9"
+     ns1:sequence="8"
+     ns1:refid="rect6543"
+     ns1:show-in-frame-list="true"
+     ns1:transition-path-hide="true" />
+  <ns1:frame
+     ns1:refid="rect6643"
+     ns1:sequence="9"
+     id="frame10"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:title="Sozi"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="true"
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:show-in-frame-list="true"
+     ns1:transition-path-hide="true" />
+  <script
+     ns1:version="14.10-05142318"
+     id="sozi-script">function namespace(b,d,a){var c=b;d.split(&quot;.&quot;).forEach(function(e){if(typeof c[e]===&quot;undefined&quot;){c[e]={}}c=c[e]});if(a){a(c,b)}return c}namespace(this,&quot;sozi.events&quot;,function(b){var a={};b.listen=function(c,d){if(!a.hasOwnProperty(c)){a[c]=[]}a[c].push(d)};b.fire=function(d){var c=Array.prototype.slice.call(arguments,1);if(a.hasOwnProperty(d)){a[d].forEach(function(e){e.apply(null,c)})}}});namespace(this,&quot;sozi.proto&quot;,function(a){a.Object={installConstructors:function(){function b(){}b.prototype=this;this.instance=function(){var c=new b();c.construct.apply(c,arguments);return c};this.subtype=function(d){var c=new b();c.augment(d);c.installConstructors();return c}},construct:function(){},augment:function(c){for(var b in c){if(c.hasOwnProperty(b)){this[b]=c[b]}}return this},bind:function(c){var b=this;return function(){return c.apply(b,arguments)}}};a.Object.installConstructors()});namespace(this,&quot;sozi.actions&quot;,function(A,g){var u=namespace(g,&quot;sozi.player&quot;);var v=namespace(g,&quot;sozi.display&quot;);var n=g.document;var o=0;var w=1;var t=1.05;var y=5;var m=5;var r=false;var i=0;var h=0;function a(C,B,D){u.stop();v.viewPorts.player.zoom(C&gt;0?t:1/t,B,D)}function x(B){u.stop();v.viewPorts.player.rotate(B&gt;0?y:-y)}function s(){if(sozi.framelist.isVisible()){sozi.framelist.hide();u.restart()}else{u.stop();sozi.framelist.show()}}function d(B){return v.viewPorts.player.contains(B.clientX,B.clientY)}function f(B){if(!d(B)){return}if(B.button===o){n.documentElement.addEventListener(&quot;mousemove&quot;,q,false);r=false;i=B.clientX;h=B.clientY}else{if(B.button===w){s()}}B.stopPropagation();B.preventDefault()}function q(B){if(!d(B)){return}u.stop();if(!r&amp;&amp;(Math.abs(B.clientX-i)&gt;m||Math.abs(B.clientY-h)&gt;m)){r=true}if(r){sozi.events.fire(&quot;sozi.player.cleanup&quot;);v.viewPorts.player.drag(B.clientX-i,B.clientY-h);i=B.clientX;h=B.clientY}B.stopPropagation()}function c(B){if(!d(B)){return}if(B.button===o){n.documentElement.removeEventListener(&quot;mousemove&quot;,q,false)}B.stopPropagation();B.preventDefault()}function p(B){if(!d(B)){return}u.moveToPrevious();B.stopPropagation();B.preventDefault()}function e(B){if(!d(B)){return}if(!r&amp;&amp;B.button!==w){u.moveToNext()}B.stopPropagation();B.preventDefault()}function j(B){if(!d(B)){return}if(!B){B=g.event}var C=0;if(B.wheelDelta){C=B.wheelDelta}else{if(B.detail){C=-B.detail}}if(C!==0){if(B.shiftKey){x(C)}else{a(C,B.clientX,B.clientY)}}B.stopPropagation();B.preventDefault()}function l(B){if(B.altKey||B.ctrlKey||B.metaKey){return}switch(B.charCode||B.which){case 43:a(1,g.innerWidth/2,g.innerHeight/2);break;case 45:a(-1,g.innerWidth/2,g.innerHeight/2);break;case 61:u.moveToCurrent();break;case 70:case 102:u.showAll();break;case 84:case 116:s();break;case 82:x(-1);break;case 114:x(1);break;default:return}B.stopPropagation();B.preventDefault()}function b(B){if(B.altKey||B.ctrlKey||B.metaKey){return}switch(B.keyCode){case 36:if(B.shiftKey){u.jumpToFirst()}else{u.moveToFirst()}break;case 35:if(B.shiftKey){u.jumpToLast()}else{u.moveToLast()}break;case 38:case 33:case 37:if(B.shiftKey){u.jumpToPrevious()}else{u.moveToPrevious()}break;case 40:case 34:case 39:case 13:case 32:if(B.shiftKey){u.jumpToNext()}else{u.moveToNext()}break;default:return}B.stopPropagation();B.preventDefault()}function z(B){B.stopPropagation()}function k(){var C=n.getElementsByTagName(&quot;a&quot;);for(var D=0;D&lt;C.length;D+=1){C[D].addEventListener(&quot;click&quot;,z,false);C[D].addEventListener(&quot;contextmenu&quot;,z,false)}var B=n.documentElement;B.addEventListener(&quot;click&quot;,e,false);B.addEventListener(&quot;mousedown&quot;,f,false);B.addEventListener(&quot;mouseup&quot;,c,false);B.addEventListener(&quot;contextmenu&quot;,p,false);B.addEventListener(&quot;DOMMouseScroll&quot;,j,false);g.onmousewheel=j;B.addEventListener(&quot;keypress&quot;,l,false);B.addEventListener(&quot;keydown&quot;,b,false)}sozi.events.listen(&quot;sozi.display.ready&quot;,k)});namespace(this,&quot;sozi.animation&quot;,function(d,g){var h=g.mozRequestAnimationFrame||g.webkitRequestAnimationFrame||g.msRequestAnimationFrame||g.oRequestAnimationFrame;var k=function(){return g.performance&amp;&amp;g.performance.now?g.performance.now():Date.now()};d.setAnimationFrameHandlers=function(l,m){h=l;k=m};var i=40;var c;var j=[];function e(){if(j.length&gt;0){if(h){h(e)}j.forEach(function(l){l.step(k())})}else{if(!h){g.clearInterval(c)}}}function b(){if(h){h(e)}else{c=g.setInterval(function(){e(k())},i)}}function a(l){j.push(l);if(j.length===1){b()}}function f(l){j.splice(j.indexOf(l),1)}d.Animator=sozi.proto.Object.subtype({construct:function(){this.durationMs=0;this.data=null;this.initialTime=0;this.started=false},start:function(l,m){this.durationMs=l;this.data=m;this.initialTime=k();this.onStep(0);if(!this.started){this.started=true;a(this)}},stop:function(){if(this.started){f(this);this.started=false}},step:function(m){var l=m-this.initialTime;if(l&gt;=this.durationMs){this.stop();this.onStep(1);this.onDone()}else{this.onStep(l/this.durationMs)}},onStep:function(l){},onDone:function(){}});d.profiles={linear:function(l){return l},accelerate:function(l){return Math.pow(l,3)},&quot;strong-accelerate&quot;:function(l){return Math.pow(l,5)},decelerate:function(l){return 1-Math.pow(1-l,3)},&quot;strong-decelerate&quot;:function(l){return 1-Math.pow(1-l,5)},&quot;accelerate-decelerate&quot;:function(l){var m=l&lt;=0.5?l:1-l,n=Math.pow(2*m,3)/2;return l&lt;=0.5?n:1-n},&quot;strong-accelerate-decelerate&quot;:function(l){var m=l&lt;=0.5?l:1-l,n=Math.pow(2*m,5)/2;return l&lt;=0.5?n:1-n},&quot;decelerate-accelerate&quot;:function(l){var m=l&lt;=0.5?l:1-l,n=(1-Math.pow(1-2*m,2))/2;return l&lt;=0.5?n:1-n},&quot;strong-decelerate-accelerate&quot;:function(l){var m=l&lt;=0.5?l:1-l,n=(1-Math.pow(1-2*m,3))/2;return l&lt;=0.5?n:1-n},&quot;immediate-beginning&quot;:function(l){return 1},&quot;immediate-end&quot;:function(l){return l===1?1:0},&quot;immediate-middle&quot;:function(l){return l&gt;=0.5?1:0}}});namespace(this,&quot;sozi.display&quot;,function(c,g){var f=&quot;http://www.w3.org/2000/svg&quot;;var b=&quot;http://www.w3.org/1999/xlink&quot;;var i=g.document;var k;var h;var j;c.viewPorts={};var e;c.CameraState=sozi.proto.Object.subtype({construct:function(){this.cx=this.cy=0;this.width=this.height=1;this.angle=0;this.clipped=true;this.transitionZoomPercent=0;this.transitionProfile=sozi.animation.profiles.linear;this.transitionPath=null},setCenter:function(l,m){this.cx=l;this.cy=m;return this},setSize:function(m,l){this.width=m;this.height=l;return this},setClipped:function(l){this.clipped=l;return this},setAngle:function(l){this.angle=(l+180)%360-180;return this},setRawAngle:function(l){this.angle=l;return this},setTransitionZoomPercent:function(l){this.transitionZoomPercent=l;return this},setTransitionProfile:function(l){this.transitionProfile=l;return this},setTransitionPath:function(l){this.transitionPath=l;return this},setAtElement:function(p){var s,o,t,m;if(p.nodeName===&quot;rect&quot;){s=p.x.baseVal.value;o=p.y.baseVal.value;t=p.width.baseVal.value;m=p.height.baseVal.value}else{var q=p.getBBox();s=q.x;o=q.y;t=q.width;m=q.height}var n=i.documentElement.createSVGPoint();n.x=s+t/2;n.y=o+m/2;var r=p.getCTM();n=n.matrixTransform(r);var l=Math.sqrt(r.a*r.a+r.b*r.b);return this.setCenter(n.x,n.y).setSize(t*l,m*l).setAngle(Math.atan2(r.b,r.a)*180/Math.PI)},setAtState:function(l){return this.setCenter(l.cx,l.cy).setSize(l.width,l.height).setAngle(l.angle).setClipped(l.clipped).setTransitionZoomPercent(l.transitionZoomPercent).setTransitionProfile(l.transitionProfile).setTransitionPath(l.transitionPath)},interpolatableAttributes:[&quot;width&quot;,&quot;height&quot;,&quot;angle&quot;],interpolate:function(n,o,t,v,r){var p=1-t;for(var q=0;q&lt;this.interpolatableAttributes.length;q+=1){var s=this.interpolatableAttributes[q];this[s]=o[s]*t+n[s]*p}var l=r?n.transitionPath:o.transitionPath;if(v&amp;&amp;l){var x=l.getTotalLength();if(r){var m=l.getPointAtLength(x);var u=l.getPointAtLength(0);var w=l.getPointAtLength(x*p)}else{var m=l.getPointAtLength(0);var u=l.getPointAtLength(x);var w=l.getPointAtLength(x*t)}this.cx=w.x+(o.cx-u.x)*t+(n.cx-m.x)*p;this.cy=w.y+(o.cy-u.y)*t+(n.cy-m.y)*p}else{this.cx=o.cx*t+n.cx*p;this.cy=o.cy*t+n.cy*p}}});c.Camera=c.CameraState.subtype({construct:function(n,o){c.CameraState.construct.call(this);this.viewPort=n;this.svgClipRect=i.createElementNS(f,&quot;rect&quot;);var m=i.createElementNS(f,&quot;clipPath&quot;);m.setAttribute(&quot;id&quot;,&quot;sozi-clip-path-&quot;+n.id+&quot;-&quot;+o);m.appendChild(this.svgClipRect);n.svgGroup.appendChild(m);var l=i.createElementNS(f,&quot;g&quot;);l.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path-&quot;+n.id+&quot;-&quot;+o+&quot;)&quot;);n.svgGroup.appendChild(l);if(n.isPrimary){this.svgLayer=i.createElementNS(f,&quot;g&quot;);this.svgLayer.appendChild(i.getElementById(o))}else{this.svgLayer=i.createElementNS(f,&quot;use&quot;);this.svgLayer.setAttributeNS(b,&quot;href&quot;,&quot;#&quot;+o)}l.appendChild(this.svgLayer)},setAtState:function(l){return c.CameraState.setAtState.call(this,l).update()},getScale:function(){return Math.min(this.viewPort.width/this.width,this.viewPort.height/this.height)},rotate:function(l){return this.setAngle(this.angle+l).update()},zoom:function(m,l,n){return this.setSize(this.width/m,this.height/m).drag((1-m)*(l-this.viewPort.width/2),(1-m)*(n-this.viewPort.height/2))},drag:function(m,l){var q=this.getScale();var o=this.angle*Math.PI/180;var n=Math.sin(o);var p=Math.cos(o);return this.setCenter(this.cx-(m*p-l*n)/q,this.cy-(m*n+l*p)/q).setClipped(false).update()},update:function(){var q=this.getScale();var n=this.width*q;var m=this.height*q;var l=(this.viewPort.width-n)/2;var r=(this.viewPort.height-m)/2;this.svgClipRect.setAttribute(&quot;x&quot;,this.clipped?l:0);this.svgClipRect.setAttribute(&quot;y&quot;,this.clipped?r:0);this.svgClipRect.setAttribute(&quot;width&quot;,this.clipped?n:this.viewPort.width);this.svgClipRect.setAttribute(&quot;height&quot;,this.clipped?m:this.viewPort.height);var p=-this.cx+this.width/2+l/q;var o=-this.cy+this.height/2+r/q;this.svgLayer.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+q+&quot;)translate(&quot;+p+&quot;,&quot;+o+&quot;)rotate(&quot;+(-this.angle)+&quot;,&quot;+this.cx+&quot;,&quot;+this.cy+&quot;)&quot;);return this}});c.ViewPort=sozi.proto.Object.subtype({construct:function(n,m,l){this.id=n;c.viewPorts[n]=this;this.isPrimary=!!l;if(this.isPrimary){if(e){throw&quot;Failed to create a primary viewport. A primary viewport already exists.&quot;}else{e=this}}this.svgGroup=i.createElementNS(f,&quot;g&quot;);this.svgGroup.setAttribute(&quot;class&quot;,&quot;sozi-viewport&quot;);this.svgGroup.setAttribute(&quot;id&quot;,&quot;sozi-viewport-&quot;+n);i.documentElement.appendChild(this.svgGroup);this.setLocation(0,0).setSize(g.innerWidth,g.innerHeight);this.cameras={};m.forEach(function(o){this.cameras[o]=c.Camera.instance(this,o)},this)},setSize:function(m,l){this.width=m;this.height=l;return this},setLocation:function(l,m){this.x=l;this.y=m;return this},contains:function(l,m){return l&gt;=this.x&amp;&amp;l&lt;this.x+this.width&amp;&amp;m&gt;=this.y&amp;&amp;m&lt;this.y+this.height},getDocumentState:function(){var m=c.CameraState.instance().setCenter(k.x+k.width/2,k.y+k.height/2).setSize(k.width,k.height).setClipped(false);var l={};for(var n in this.cameras){l[n]=m}return l},update:function(){this.svgGroup.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+this.x+&quot;,&quot;+this.y+&quot;)&quot;);for(var l in this.cameras){this.cameras[l].update()}return this},showFrame:function(l){for(var m in l.states){this.cameras[m].setAtState(l.states[m])}return this},drag:function(m,l){for(var n in this.cameras){this.cameras[n].drag(m,l)}return this},zoom:function(m,l,o){for(var n in this.cameras){this.cameras[n].zoom(m,l,o)}return this},rotate:function(l){for(var m in this.cameras){this.cameras[m].rotate(l)}return this},onWindowResize:function(m,l){this.setLocation(this.x*m,this.y*l).setSize(this.width*m,this.height*l).update()}});function d(){var l=i.documentElement;k=l.getBBox();h=g.innerWidth;j=g.innerHeight;l.setAttribute(&quot;width&quot;,h);l.setAttribute(&quot;height&quot;,j);sozi.events.fire(&quot;sozi.display.ready&quot;)}function a(){var l=i.documentElement;l.setAttribute(&quot;width&quot;,g.innerWidth);l.setAttribute(&quot;height&quot;,g.innerHeight);for(var m in c.viewPorts){c.viewPorts[m].onWindowResize(g.innerWidth/h,g.innerHeight/j)}h=g.innerWidth;j=g.innerHeight}sozi.events.listen(&quot;sozi.document.ready&quot;,d);g.addEventListener(&quot;resize&quot;,a,false)});namespace(this,&quot;sozi.document&quot;,function(c,e){var g=e.document;var b=&quot;http://sozi.baierouge.fr&quot;;var d={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;show-in-frame-list&quot;:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;,&quot;transition-path-hide&quot;:&quot;true&quot;};var h=[&quot;g&quot;,&quot;image&quot;,&quot;path&quot;,&quot;rect&quot;,&quot;circle&quot;,&quot;ellipse&quot;,&quot;line&quot;,&quot;polyline&quot;,&quot;polygon&quot;,&quot;text&quot;,&quot;clippath&quot;];c.frames=[];c.idLayerList=[];function j(l,k){return l.getAttributeNS(b,k)||d[k]}function i(o,p,k){var l=o.states[p]=o.states[p]||sozi.display.CameraState.instance();if(typeof l.transitionZoomPercent===&quot;undefined&quot;||k.hasAttributeNS(b,&quot;transition-zoom-percent&quot;)){l.setTransitionZoomPercent(parseInt(j(k,&quot;transition-zoom-percent&quot;),10))}if(typeof l.transitionProfile===&quot;undefined&quot;||k.hasAttributeNS(b,&quot;transition-profile&quot;)){l.setTransitionProfile(sozi.animation.profiles[j(k,&quot;transition-profile&quot;)])}if(typeof l.transitionPath===&quot;undefined&quot;||k.hasAttributeNS(b,&quot;transition-path&quot;)){var n=g.getElementById(k.getAttributeNS(b,&quot;transition-path&quot;));if(n&amp;&amp;n.nodeName===&quot;path&quot;){l.setTransitionPath(n);if(j(k,&quot;transition-path-hide&quot;)===&quot;true&quot;){n.style.visibility=&quot;hidden&quot;}}}if(k.hasAttributeNS(b,&quot;refid&quot;)){var m=g.getElementById(k.getAttributeNS(b,&quot;refid&quot;));if(m){l.setAtElement(m);if(j(k,&quot;hide&quot;)===&quot;true&quot;){m.style.visibility=&quot;hidden&quot;}}}if(k.hasAttributeNS(b,&quot;clip&quot;)){l.setClipped(j(k,&quot;clip&quot;)===&quot;true&quot;)}}function a(){var l=[];var p=g.getElementsByTagNameNS(b,&quot;layer&quot;);for(var n=0;n&lt;p.length;n+=1){var s=p[n].getAttributeNS(b,&quot;group&quot;);if(s&amp;&amp;l.indexOf(s)===-1){l.push(s)}}var r=g.documentElement;var o=&quot;http://www.w3.org/2000/svg&quot;;var q=g.createElementNS(o,&quot;g&quot;);var k=Array.prototype.slice.call(r.childNodes);k.forEach(function(u,t){if(!u.getAttribute){r.removeChild(u)}else{if(l.indexOf(u.getAttribute(&quot;id&quot;))!==-1){if(q.firstChild){q.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+t);c.idLayerList.push(&quot;sozi-wrapper-&quot;+t);r.insertBefore(q,u);q=g.createElementNS(o,&quot;g&quot;)}c.idLayerList.push(u.getAttribute(&quot;id&quot;))}else{if(h.indexOf(u.localName.toLowerCase())!==-1){r.removeChild(u);q.appendChild(u)}}}});if(q.firstChild){q.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+k.length);c.idLayerList.push(&quot;sozi-wrapper-&quot;+k.length);r.appendChild(q)}var m=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;frame&quot;));m.sort(function(u,t){var w=parseInt(j(u,&quot;sequence&quot;),10);var v=parseInt(j(t,&quot;sequence&quot;),10);return w-v});m.forEach(function(v,u){var x={id:v.getAttribute(&quot;id&quot;),title:j(v,&quot;title&quot;),showInFrameList:j(v,&quot;show-in-frame-list&quot;)===&quot;true&quot;,sequence:parseInt(j(v,&quot;sequence&quot;),10),timeoutEnable:j(v,&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(j(v,&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(j(v,&quot;transition-duration-ms&quot;),10),states:{}};c.idLayerList.forEach(function(A){if(u===0||A.search(&quot;sozi-wrapper-[0-9]+&quot;)!==-1){i(x,A,v)}else{var z=x.states[A]=sozi.display.CameraState.instance();var y=c.frames[c.frames.length-1].states[A];z.setAtState(y)}});var t=Array.prototype.slice.call(v.getElementsByTagNameNS(b,&quot;layer&quot;));t.forEach(function(y){var z=y.getAttributeNS(b,&quot;group&quot;);if(z&amp;&amp;c.idLayerList.indexOf(z)!==-1){i(x,z,y)}});for(var w in x.states){if(x.states.hasOwnProperty(w)){c.frames.push(x);break}}})}c.getFrameIndexForId=function(l){for(var k=0;k&lt;c.frames.length;k+=1){if(c.frames[k].id===l){return k}}return -1};function f(){g.documentElement.removeAttribute(&quot;viewBox&quot;);a();sozi.events.fire(&quot;sozi.document.ready&quot;)}e.addEventListener(&quot;load&quot;,f,false)});namespace(this,&quot;sozi.framelist&quot;,function(u,k){var o=k.document;var c=5;var i;var p;var j=0;var h;var s;var b;var v;var w;var t;var e=300;var f=&quot;decelerate&quot;;var a=&quot;http://www.w3.org/2000/svg&quot;;function n(z){var x=z.relatedTarget,y=o.documentElement;while(x&amp;&amp;x!==i&amp;&amp;x!==y){x=x.parentNode}if(x!==i){u.hide();sozi.player.restart();z.stopPropagation()}}function r(y){var x=p.getCTM().f;if(x&lt;=-k.innerHeight/2){x+=k.innerHeight/2}else{if(x&lt;0){x=0}}p.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+x+&quot;)&quot;);y.stopPropagation()}function d(y){var x=p.getCTM().f;if(x+j&gt;=k.innerHeight*3/2){x-=k.innerHeight/2}else{if(x+j&gt;k.innerHeight+2*c){x=k.innerHeight-j-4*c}}p.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+x+&quot;)&quot;);y.stopPropagation()}function g(x){return function(y){sozi.player.previewFrame(x);y.stopPropagation()}}function l(x){x.stopPropagation()}function q(){i=o.createElementNS(a,&quot;g&quot;);i.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;);o.documentElement.appendChild(i);p=o.createElementNS(a,&quot;g&quot;);i.appendChild(p);var y=o.createElementNS(a,&quot;rect&quot;);y.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;);y.setAttribute(&quot;x&quot;,c);y.setAttribute(&quot;y&quot;,c);y.setAttribute(&quot;rx&quot;,c);y.setAttribute(&quot;ry&quot;,c);y.addEventListener(&quot;click&quot;,l,false);y.addEventListener(&quot;mousedown&quot;,l,false);y.addEventListener(&quot;mouseout&quot;,n,false);p.appendChild(y);var A=0;sozi.document.frames.forEach(function(D,E){if(D.showInFrameList){var C=o.createElementNS(a,&quot;text&quot;);C.appendChild(o.createTextNode(D.title));C.setAttribute(&quot;id&quot;,&quot;sozi-toc-&quot;+D.id);p.appendChild(C);if(E===sozi.player.currentFrameIndex){C.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}var B=C.getBBox().width;j+=C.getBBox().height;if(B&gt;A){A=B}C.setAttribute(&quot;x&quot;,2*c);C.setAttribute(&quot;y&quot;,j+c);C.addEventListener(&quot;click&quot;,g(E),false);C.addEventListener(&quot;mousedown&quot;,l,false)}});var x=o.createElementNS(a,&quot;path&quot;);x.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);x.setAttribute(&quot;d&quot;,&quot;M&quot;+(A+3*c)+&quot;,&quot;+(5*c)+&quot; l&quot;+(4*c)+&quot;,0 l-&quot;+(2*c)+&quot;,-&quot;+(3*c)+&quot; z&quot;);x.addEventListener(&quot;click&quot;,r,false);x.addEventListener(&quot;mousedown&quot;,l,false);i.appendChild(x);var z=o.createElementNS(a,&quot;path&quot;);z.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);z.setAttribute(&quot;d&quot;,&quot;M&quot;+(A+3*c)+&quot;,&quot;+(7*c)+&quot; l&quot;+(4*c)+&quot;,0 l-&quot;+(2*c)+&quot;,&quot;+(3*c)+&quot; z&quot;);z.addEventListener(&quot;click&quot;,d,false);z.addEventListener(&quot;mousedown&quot;,l,false);i.appendChild(z);y.setAttribute(&quot;width&quot;,A+7*c);y.setAttribute(&quot;height&quot;,j+2*c);h=-A-9*c;s=0;w=v=h;i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+h+&quot;,0)&quot;);t=sozi.animation.Animator.instance().augment({onStep:function(B){var D=sozi.animation.profiles[f](B),C=1-D;w=v*D+b*C;i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+w+&quot;,0)&quot;)}})}function m(x){var y=Array.prototype.slice.call(o.getElementsByClassName(&quot;sozi-toc-current&quot;));y.forEach(function(A){A.removeAttribute(&quot;class&quot;)});var z=sozi.document.frames[x];if(z.showInFrameList){o.getElementById(&quot;sozi-toc-&quot;+z.id).setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}}u.show=function(){o.documentElement.appendChild(i);b=w;v=s;t.start(e)};u.hide=function(){b=w;v=h;t.start(e)};u.isVisible=function(){return v===s};sozi.events.listen(&quot;sozi.player.ready&quot;,q);sozi.events.listen(&quot;sozi.player.cleanup&quot;,u.hide);sozi.events.listen(&quot;sozi.player.framechange&quot;,m)});namespace(this,&quot;sozi.framenumber&quot;,function(a,d){var g=d.document;var e;var k,i;var f;var b=&quot;http://www.w3.org/2000/svg&quot;;function h(){var m=k.getBBox(),n=Math.max(m.width,m.height)*0.75,l=n*1.25;f.setAttribute(&quot;r&quot;,n);e.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+l+&quot;,&quot;+l+&quot;)&quot;)}function c(){e=g.createElementNS(b,&quot;g&quot;);k=g.createElementNS(b,&quot;text&quot;);f=g.createElementNS(b,&quot;circle&quot;);e.setAttribute(&quot;id&quot;,&quot;sozi-framenumber&quot;);f.setAttribute(&quot;cx&quot;,0);f.setAttribute(&quot;cy&quot;,0);e.appendChild(f);i=g.createTextNode(sozi.player.currentFrameIndex+1);k.setAttribute(&quot;text-anchor&quot;,&quot;middle&quot;);k.setAttribute(&quot;dominant-baseline&quot;,&quot;central&quot;);k.setAttribute(&quot;x&quot;,0);k.setAttribute(&quot;y&quot;,0);k.appendChild(i);e.appendChild(k);g.documentElement.appendChild(e);h()}function j(l){i.nodeValue=l+1}sozi.events.listen(&quot;sozi.player.ready&quot;,c);sozi.events.listen(&quot;sozi.player.framechange&quot;,j)});namespace(this,&quot;sozi.links&quot;,function(c,e){var b=&quot;http://www.w3.org/2000/svg&quot;;var a=&quot;http://www.w3.org/1999/xlink&quot;;function f(g){return function(h){sozi.player.moveToFrame(g);h.preventDefault();h.stopPropagation()}}function d(){var h=e.document.getElementsByTagNameNS(b,&quot;a&quot;);for(var j=0;j&lt;h.length;j+=1){var g=h[j].getAttributeNS(a,&quot;href&quot;);if(g&amp;&amp;g[0]===&quot;#&quot;){h[j].addEventListener(&quot;click&quot;,f(sozi.location.getFrameIndexForHash(g)),false)}}}sozi.events.listen(&quot;sozi.document.ready&quot;,d)});namespace(this,&quot;sozi.location&quot;,function(a,d){var b=false;a.getFrameIndex=function(){return a.getFrameIndexForHash(d.location.hash)};a.getFrameIndexForHash=function(g){var h=g?g.slice(1):&quot;1&quot;;var f;if(/^[0-9]+$/.test(h)){f=parseInt(h,10)-1}else{f=sozi.document.getFrameIndexForId(h)}if(f&lt;0){return 0}else{if(f&gt;=sozi.document.frames.length){return sozi.document.frames.length-1}else{return f}}};function e(){var f=a.getFrameIndex();if(!b){sozi.player.moveToFrame(f)}b=false}function c(f){b=true;d.location.hash=&quot;#&quot;+sozi.document.frames[f].id}d.addEventListener(&quot;hashchange&quot;,e,false);sozi.events.listen(&quot;sozi.player.framechange&quot;,c)});namespace(this,&quot;sozi.player&quot;,function(d,g){var l;var c;var i;var e=500;var n=-10;var j=&quot;linear&quot;;var f=0;d.currentFrameIndex=0;var k=false;var m=false;function h(){if(sozi.document.frames[d.currentFrameIndex].timeoutEnable){m=true;var o=(d.currentFrameIndex+1)%sozi.document.frames.length;i=g.setTimeout(function(){d.moveToFrame(o)},sozi.document.frames[d.currentFrameIndex].timeoutMs)}}d.startFromIndex=function(o){k=true;m=false;f=o;d.currentFrameIndex=o;l.showFrame(sozi.document.frames[o]);h()};d.restart=function(){d.startFromIndex(d.currentFrameIndex)};d.stop=function(){c.stop();if(m){g.clearTimeout(i);m=false}k=false;f=d.currentFrameIndex};function b(o,y,w){var z={ss:((o&lt;0)?Math.max(y,w):Math.min(y,w))*(100-o)/100,ts:0.5,k:0};if(o!==0){var s=y-w;var r=y-z.ss;var q=w-z.ss;if(s!==0){var p=Math.sqrt(r*q);var x=(r-p)/s;var t=(r+p)/s;z.ts=(x&gt;0&amp;&amp;x&lt;=1)?x:t}z.k=r/z.ts/z.ts}return z}d.jumpToFrame=function(o){d.stop();sozi.events.fire(&quot;sozi.player.cleanup&quot;);f=o;d.currentFrameIndex=o;l.showFrame(sozi.document.frames[o]);sozi.events.fire(&quot;sozi.player.framechange&quot;,o)};d.getAnimationData=function(o,q,s,p,v,t){var r={};for(var w in o){r[w]={initialState:sozi.display.CameraState.instance(),finalState:sozi.display.CameraState.instance(),useTransitionPath:v,reverseTransitionPath:t};r[w].profile=p||q[w].transitionProfile;r[w].initialState.setAtState(o[w]);if(q.hasOwnProperty(w)){r[w].finalState.setAtState(q[w])}else{r[w].finalState.setAtState(o[w])}if(r[w].finalState.angle-r[w].initialState.angle&gt;180){r[w].finalState.setRawAngle(r[w].finalState.angle-360)}else{if(r[w].finalState.angle-r[w].initialState.angle&lt;-180){r[w].initialState.setRawAngle(r[w].initialState.angle-360)}}var u=s||q[w].transitionZoomPercent;if(u&amp;&amp;q.hasOwnProperty(w)){r[w].zoomWidth=b(u,o[w].width,q[w].width);r[w].zoomHeight=b(u,o[w].height,q[w].height)}}return r};d.previewFrame=function(o){d.currentFrameIndex=o;c.start(e,d.getAnimationData(l.cameras,sozi.document.frames[o].states,n,sozi.animation.profiles[j]),false,false);sozi.events.fire(&quot;sozi.player.framechange&quot;,o)};d.moveToFrame=function(r){if(m){g.clearTimeout(i);m=false}var q,t,s,p,o;if(r===(d.currentFrameIndex-1)%sozi.document.frames.length){q=sozi.document.frames[d.currentFrameIndex].transitionDurationMs;t=undefined;s=undefined;p=true;o=true}else{if(r===(d.currentFrameIndex+1)%sozi.document.frames.length){q=sozi.document.frames[r].transitionDurationMs;t=undefined;s=undefined;p=true;o=false}else{q=e;t=n;s=sozi.animation.profiles[j];p=false;o=false}}sozi.events.fire(&quot;sozi.player.cleanup&quot;);k=true;d.currentFrameIndex=r;c.start(q,d.getAnimationData(l.cameras,sozi.document.frames[r].states,t,s,p,o));sozi.events.fire(&quot;sozi.player.framechange&quot;,r)};d.jumpToFirst=function(){d.jumpToFrame(0)};d.moveToFirst=function(){d.moveToFrame(0)};d.jumpToPrevious=function(){var o=d.currentFrameIndex;if(!c.started||f&lt;=d.currentFrameIndex){o-=1}if(o&gt;=0){d.jumpToFrame(o)}};d.moveToPrevious=function(){for(var o=d.currentFrameIndex-1;o&gt;=0;o-=1){var p=sozi.document.frames[o];if(!p.timeoutEnable||p.timeoutMs!==0){d.moveToFrame(o);break}}};d.jumpToNext=function(){var o=d.currentFrameIndex;if(!c.started||f&gt;=d.currentFrameIndex){o+=1}if(o&lt;sozi.document.frames.length){d.jumpToFrame(o)}};d.moveToNext=function(){if(d.currentFrameIndex&lt;sozi.document.frames.length-1||sozi.document.frames[d.currentFrameIndex].timeoutEnable){d.moveToFrame((d.currentFrameIndex+1)%sozi.document.frames.length)}};d.jumpToLast=function(){d.jumpToFrame(sozi.document.frames.length-1)};d.moveToLast=function(){d.moveToFrame(sozi.document.frames.length-1)};d.moveToCurrent=function(){d.moveToFrame(d.currentFrameIndex)};d.showAll=function(){d.stop();sozi.events.fire(&quot;sozi.player.cleanup&quot;);c.start(e,d.getAnimationData(l.cameras,l.getDocumentState(),n,sozi.animation.profiles[j],false,false))};function a(){l=sozi.display.ViewPort.instance(&quot;player&quot;,sozi.document.idLayerList,true);d.startFromIndex(sozi.location.getFrameIndex());g.setTimeout(l.bind(l.update),1);sozi.events.fire(&quot;sozi.player.ready&quot;)}d.onAnimationStep=function(o,q){for(var s in q){var p=l.cameras[s];p.interpolate(q[s].initialState,q[s].finalState,q[s].profile(o),q[s].useTransitionPath,q[s].reverseTransitionPath);var r;if(q[s].zoomWidth&amp;&amp;q[s].zoomWidth.k!==0){r=o-q[s].zoomWidth.ts;p.width=q[s].zoomWidth.k*r*r+q[s].zoomWidth.ss}if(q[s].zoomHeight&amp;&amp;q[s].zoomHeight.k!==0){r=o-q[s].zoomHeight.ts;p.height=q[s].zoomHeight.k*r*r+q[s].zoomHeight.ss}p.setClipped(q[s].finalState.clipped)}l.update()};c=sozi.animation.Animator.instance().augment({onStep:function(o){d.onAnimationStep(o,this.data)},onDone:function(){for(var o in this.data){l.cameras[o].setAtState(this.data[o].finalState)}l.update();f=d.currentFrameIndex;if(k){h()}}});sozi.events.listen(&quot;sozi.display.ready&quot;,a)});</script>
+  <style
+     ns1:version="14.10-05142318"
+     id="sozi-style">#sozi-toc text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}#sozi-toc text:hover{fill:#0cf;cursor:pointer}#sozi-toc text.sozi-toc-current{fill:#fa4}#sozi-toc-background{stroke:#222;stroke-opacity:.1;stroke-width:10;fill:#222;fill-opacity:.9}.sozi-toc-arrow{fill:#eff;fill-opacity:.75;stroke:none}.sozi-toc-arrow:hover{fill:#0cf}#sozi-framenumber circle{stroke:#222;stroke-opacity:.1;stroke-width:4;fill:#222;fill-opacity:.9}#sozi-framenumber text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}</style>
+  <ns1:frame
+     id="frame1181"
+     ns1:transition-path-hide="true"
+     ns1:transition-profile="linear"
+     ns1:transition-zoom-percent="-100.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:show-in-frame-list="true"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:sequence="1"
+     ns1:title="Esto"
+     ns1:refid="rect4007" />
+  <ns1:frame
+     ns1:refid="rect5721"
+     ns1:title="no"
+     ns1:sequence="2"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:show-in-frame-list="true"
+     ns1:timeout-enable="true"
+     ns1:timeout-ms="1500.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="linear"
+     ns1:transition-path-hide="true"
+     id="frame1257" />
+  <ns1:frame
+     id="frame1304"
+     ns1:transition-path-hide="true"
+     ns1:transition-profile="linear"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:show-in-frame-list="true"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:sequence="3"
+     ns1:title="es"
+     ns1:refid="rect5891" />
+  <ns1:frame
+     ns1:refid="rect5979"
+     ns1:title="una"
+     ns1:sequence="4"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:show-in-frame-list="true"
+     ns1:timeout-enable="true"
+     ns1:timeout-ms="1500.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="linear"
+     ns1:transition-path-hide="true"
+     id="frame1337" />
+  <ns1:frame
+     id="frame1380"
+     ns1:transition-path-hide="true"
+     ns1:transition-profile="linear"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="1500.0"
+     ns1:timeout-enable="true"
+     ns1:show-in-frame-list="true"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:sequence="5"
+     ns1:title="presentacion"
+     ns1:refid="rect6161" />
+</svg>
