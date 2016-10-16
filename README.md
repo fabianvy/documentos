@@ -1,2 +1,3 @@
 # documentos
 Repositorio de documentos varios para compartir
+Me gusta leer, poner practica lo leido, dialogar para intercambiar ideas, opiniones, conocimientos, experiencias para asi aprender...
